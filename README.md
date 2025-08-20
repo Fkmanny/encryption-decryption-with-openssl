@@ -126,11 +126,6 @@ This project demonstrates practical implementation of various cryptographic algo
 - **Algorithm Selection Criteria**: Need for continuous evaluation of cryptographic algorithm strength
 - **Defense in Depth**: Encryption as one layer in comprehensive security strategy
 
-### Practical Implementation Insights
-- **OpenSSL Versatility**: Comprehensive cryptographic toolkit capabilities demonstrated
-- **Configuration Sensitivity**: Precise parameter requirements for successful operations
-- **Verification Necessity**: Critical importance of testing encryption/decryption cycles
-
 ---
 
 ## How to Reproduce
@@ -142,8 +137,9 @@ This project demonstrates practical implementation of various cryptographic algo
 
 ### Implementation Steps
 
-1. **Create Test File**
+
 ```bash
+#Create Test File
 nano ibukunoluwa.txt
 cat ibukunoluwa.txt
 
